@@ -7,6 +7,8 @@ It contains a collection of software packages to work with bears.
 It provides bear detection, bear face detection, bear face segmentation, bear
 facial landmark detection and bear re-identification models.
 
+[<img src="./docs/assets/images/ml_space.png" />](https://www.earthtoolsmaker.org/spaces/bear_identification/)
+
 ## Context
 
 Bears, particularly brown bears, are not only charismatic but also serve as
